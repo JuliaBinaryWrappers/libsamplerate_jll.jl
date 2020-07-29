@@ -1,0 +1,113 @@
+[[libsamplerate]]
+arch = "aarch64"
+git-tree-sha1 = "693697e87828ada7f3c3ad69dddd92a10d89020c"
+libc = "glibc"
+os = "linux"
+
+    [[libsamplerate.download]]
+    sha256 = "52597a35c60252b0ddd1b49e05038890b58f28e71f4a1c64117be756508c896b"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.aarch64-linux-gnu.tar.gz"
+[[libsamplerate]]
+arch = "aarch64"
+git-tree-sha1 = "c85a09ac5d95b41bc2269f3714a6cc57148513fd"
+libc = "musl"
+os = "linux"
+
+    [[libsamplerate.download]]
+    sha256 = "012351299ad1d94623240c8ec1065284b1184373e21b01c75a83bcd45eaf894b"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.aarch64-linux-musl.tar.gz"
+[[libsamplerate]]
+arch = "armv7l"
+git-tree-sha1 = "16e66204b84eb4d9271b711cca9d481c1af26e68"
+libc = "glibc"
+os = "linux"
+
+    [[libsamplerate.download]]
+    sha256 = "049295dc164cd653d4bdfe4d93757dd3dcf1951c82eddcb2f9cbe85de7e9d2f9"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.armv7l-linux-gnueabihf.tar.gz"
+[[libsamplerate]]
+arch = "armv7l"
+git-tree-sha1 = "88574ff5af487d3b05a52134fa4ad018d9f3f147"
+libc = "musl"
+os = "linux"
+
+    [[libsamplerate.download]]
+    sha256 = "5238fd2c3fd147d3c59498a754939427a84c57908ce58791f4eb8c9c1bb91eb7"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.armv7l-linux-musleabihf.tar.gz"
+[[libsamplerate]]
+arch = "i686"
+git-tree-sha1 = "8da4606fb8c6c5508f5ee90971ebeb411e088581"
+libc = "glibc"
+os = "linux"
+
+    [[libsamplerate.download]]
+    sha256 = "6c5fb50b068f46a462705c076b7c9f85ff5774097ff22b22d6c608c0ab11a4ea"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.i686-linux-gnu.tar.gz"
+[[libsamplerate]]
+arch = "i686"
+git-tree-sha1 = "3c354fb31edd06178721d7e83aa5016a0e1f13af"
+libc = "musl"
+os = "linux"
+
+    [[libsamplerate.download]]
+    sha256 = "fa62e90b37742a4f671311284c750ca6691b9051509c9f6a1415041ac722c87e"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.i686-linux-musl.tar.gz"
+[[libsamplerate]]
+arch = "i686"
+git-tree-sha1 = "fc896432a63f0b35e320c24781f0ad8c4822fa22"
+os = "windows"
+
+    [[libsamplerate.download]]
+    sha256 = "1ae49531a25952c5a5368d74179c4525f53b8d1e38aee419d24fac0a690fe761"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.i686-w64-mingw32.tar.gz"
+[[libsamplerate]]
+arch = "powerpc64le"
+git-tree-sha1 = "81ff111378bd3086c5ccd888bdba80180fb54fc8"
+libc = "glibc"
+os = "linux"
+
+    [[libsamplerate.download]]
+    sha256 = "0ab006b0c1c41e5fc99efe2f74424a2bef63bdaead1fbfcce42c3a52bdb18d17"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.powerpc64le-linux-gnu.tar.gz"
+[[libsamplerate]]
+arch = "x86_64"
+git-tree-sha1 = "3f9bb85eb75c5085fce6fed8ad03389f46edc35a"
+os = "macos"
+
+    [[libsamplerate.download]]
+    sha256 = "f1e438c831eda49053b2a57c2c470c61202792aa3d6aaf14ca31b51348682460"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.x86_64-apple-darwin14.tar.gz"
+[[libsamplerate]]
+arch = "x86_64"
+git-tree-sha1 = "ca42773b9fc6f0314e49306a5ce20d9b470dc0c9"
+libc = "glibc"
+os = "linux"
+
+    [[libsamplerate.download]]
+    sha256 = "575d886cfa85562ba2fc307f3d2c398f87e012fa3ce650e0022494e41c338182"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.x86_64-linux-gnu.tar.gz"
+[[libsamplerate]]
+arch = "x86_64"
+git-tree-sha1 = "7c5897806954e1773162de8377a1aca6800ed9e0"
+libc = "musl"
+os = "linux"
+
+    [[libsamplerate.download]]
+    sha256 = "a059430c0b5733443757860791c53e16daa8958f4e53f55e794c8d6243bfbfa4"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.x86_64-linux-musl.tar.gz"
+[[libsamplerate]]
+arch = "x86_64"
+git-tree-sha1 = "6af3d41c050d2806cd4b1997948efc4815c3b701"
+os = "freebsd"
+
+    [[libsamplerate.download]]
+    sha256 = "b98af0925e49bd5d1e995411df752a18bf047b4e996cc41eb1fe0e2014834359"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.x86_64-unknown-freebsd11.1.tar.gz"
+[[libsamplerate]]
+arch = "x86_64"
+git-tree-sha1 = "712bf8fd59eec4274a28ede5a2a822590cd2a8a8"
+os = "windows"
+
+    [[libsamplerate.download]]
+    sha256 = "1b021ff39fc853f170e689c8dace784c423fda5a4a5bfe33e34ec67138a943a6"
+    url = "https://github.com/JuliaBinaryWrappers/libsamplerate_jll.jl/releases/download/libsamplerate-v0.1.9+0/libsamplerate.v0.1.9.x86_64-w64-mingw32.tar.gz"
